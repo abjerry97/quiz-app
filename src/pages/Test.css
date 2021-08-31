@@ -1,0 +1,6 @@
+.test-page ul{
+    list-style: none;
+    float: left;
+    justify-content: space-between;
+    display: inline;
+}
